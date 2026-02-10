@@ -1,0 +1,8 @@
+# mac junk
+.DS_Store
+**/.DS_Store
+
+# big data (do not track)
+outputs_time/*.csv
+reach_time_60.csv
+outputs_time/reach_time_60.csv
